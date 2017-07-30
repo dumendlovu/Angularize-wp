@@ -3,7 +3,7 @@ Contributing guidelines (for code)
 ----------------------------------
 
 Forking and Pull Requests on Angularize-wp
---------------------------------------
+-------------------------------------
 1. On GitHub, navigate to the justiceo/Angularize-wp repository.
 2. In the top-right corner of the page, click *Fork*.
 
